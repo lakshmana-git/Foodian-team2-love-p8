@@ -7,3 +7,10 @@ you reach any destination.
 
 ## Demo
 https://foodian-delivery.onrender.com/
+
+## Credentials
+#### User :Sachin
+username:sachin@gmail.com 
+password:sachin@123
+
+
